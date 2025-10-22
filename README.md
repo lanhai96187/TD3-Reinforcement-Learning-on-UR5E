@@ -18,3 +18,17 @@
 ./TD3_UR5E.png:训练第1001-2000轮时每一轮获得的奖励
 
 模型在训练2000轮后可稳定收敛
+
+使用到的python库：
+
+matplotlib
+
+numpy
+
+mujoco
+
+torch
+
+tqdm
+
+gym
