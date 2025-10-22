@@ -21,14 +21,6 @@
 
 使用到的python库：
 
-matplotlib
+matplotlib/numpy/mujoco/torch/tqdm/gym
 
-numpy
-
-mujoco
-
-torch
-
-tqdm
-
-gym
+程序可直接运行，无需调整，训练过程约两个小时
