@@ -2,7 +2,10 @@
 在Mujoco环境使用TD3强化学习控制UR5E机械臂操作
 
 说明：
+
 ./model/:存放UR5E机械臂模型，来自Mujoco官方仓库
+
+./ur5e.xml:UR5E机械臂xml文件
 
 ./UR5E_rl.py:定义强化学习环境，包含状态空间奖励函数等
 
